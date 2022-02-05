@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo-List</string>
+    <string name="tab_text_1">Ajouter</string>
+    <string name="tab_text_2">Liste</string>
+    <string name="tab_text_3">Calendrier</string>
+    <string name="nom_de_la_tache">Nom de la tâche :</string>
+    <string name="tache">Tâche</string>
+    <string name="valider">Valider</string>
+    <string name="date_de_la_tache">Date de la tâche :</string>
+    <string name="jj_mm_aaaa">JJ/MM/AAAA</string>
+    <string name="supprimer">Supprimer</string>
+</resources>
