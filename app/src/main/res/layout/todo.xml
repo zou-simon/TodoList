@@ -34,8 +34,7 @@
                 android:id="@+id/date"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="@string/jj_mm_aaaa"
-                android:textColorHint="#757575" />
+                android:text="@string/jj_mm_aaaa" />
         </LinearLayout>
 
         <Button
